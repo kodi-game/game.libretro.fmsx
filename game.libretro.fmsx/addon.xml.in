@@ -7,11 +7,7 @@
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.fmsx.so"
-                   library_linux="game.libretro.fmsx.so"
-                   library_osx="game.libretro.fmsx.dylib"
-                   library_windx="game.libretro.fmsx.dll"
-                   library_wingl="game.libretro.fmsx.dll">
+                   library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>MSX</platforms>
 		<extensions>msx</extensions>
 		<supports_vfs>true</supports_vfs>
@@ -20,6 +16,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">fmsx v3.9</summary>
 		<description>Source: https://github.com/libretro/fmsx-libretro</description>
-		<platform>all</platform>
+		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
