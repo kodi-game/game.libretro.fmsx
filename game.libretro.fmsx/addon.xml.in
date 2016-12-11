@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">MSX (fMSX) 3.9</summary>
+		<summary lang="en">MSX (fMSX) 3.9 9bfae24</summary>
 		<description>Source: https://github.com/libretro/fmsx-libretro
 
 Supported files: .rom, .mx1, .mx2</description>
