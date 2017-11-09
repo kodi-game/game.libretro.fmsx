@@ -29,6 +29,14 @@ msgid "MSX Mode"
 msgstr ""
 
 msgctxt "#30003"
+msgid "MSX Main Memory"
+msgstr ""
+
+msgctxt "#30004"
 msgid "MSX Video Mode"
+msgstr ""
+
+msgctxt "#30005"
+msgid "MSX Video Memory"
 msgstr ""
 

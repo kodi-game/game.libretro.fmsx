@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fmsx"
 		name="MSX (fMSX)"
-		version="3.9.0"
+		version="4.9.0"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,17 +9,17 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>MSX</platforms>
-		<extensions>rom|mx1|mx2</extensions>
+		<extensions>rom|mx1|mx2|dsk|cas</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">MSX (fMSX) 3.9</summary>
+		<summary lang="en">MSX (fMSX) 4.9</summary>
 		<description>Source: https://github.com/libretro/fmsx-libretro
 
-Supported files: .rom, .mx1, .mx2</description>
+Supported files: .rom, .mx1, .mx2, .dsk, .cas</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
