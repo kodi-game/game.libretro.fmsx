@@ -14,8 +14,6 @@
 		<extensions>rom|mx1|mx2|dsk|cas</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
-		<supports_keyboard>true</supports_keyboard>
-		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Microsoft - MSX (fMSX) 4.9</summary>
