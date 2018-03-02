@@ -16,8 +16,8 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Microsoft - MSX (fMSX) 4.9</summary>
-		<description>fMSX is a MSX emulator written by Marat Fayzullin. It emulates MSX, MSX2, and MSX2+ 8-bit home computers.
+		<summary lang="en_GB">Microsoft - MSX (fMSX) 4.9</summary>
+		<description lang="en_GB">fMSX is a MSX emulator written by Marat Fayzullin. It emulates MSX, MSX2, and MSX2+ 8-bit home computers.
 
 Supported files: .rom, .mx1, .mx2, .dsk, .cas</description>
 		<license>Non-commercial</license>
