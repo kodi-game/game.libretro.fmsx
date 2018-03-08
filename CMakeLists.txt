@@ -10,3 +10,5 @@ set(FMSX_CUSTOM_BINARY ${FMSX_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} FMSX "")
+
+include(CPack)
