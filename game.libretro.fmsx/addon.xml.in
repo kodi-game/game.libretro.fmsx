@@ -22,5 +22,6 @@
 Supported files: .rom, .mx1, .mx2, .dsk, .cas</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.fmsx</source>
 	</extension>
 </addon>
