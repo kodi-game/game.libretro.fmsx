@@ -2,7 +2,7 @@
 <addon id="game.libretro.fmsx"
 		name="Microsoft - MSX (fMSX)"
 		version="4.9.0.8"
-		provider-name="Libretro">
+		provider-name="Marat Fayzullin">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.msx.keyboard" version="1.0.0"/>
