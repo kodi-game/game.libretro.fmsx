@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fmsx"
 		name="Microsoft - MSX (fMSX)"
-		version="4.9.0.12"
+		version="4.9.0.13"
 		provider-name="Marat Fayzullin">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
