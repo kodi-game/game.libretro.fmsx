@@ -22,19 +22,19 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "MSX Mapper Type Mode"
-msgstr ""
-
-msgctxt "#30002"
 msgid "MSX Mode"
 msgstr ""
 
+msgctxt "#30002"
+msgid "MSX Video Mode"
+msgstr ""
+
 msgctxt "#30003"
-msgid "MSX Main Memory"
+msgid "MSX Mapper Type Mode"
 msgstr ""
 
 msgctxt "#30004"
-msgid "MSX Video Mode"
+msgid "MSX Main Memory"
 msgstr ""
 
 msgctxt "#30005"
