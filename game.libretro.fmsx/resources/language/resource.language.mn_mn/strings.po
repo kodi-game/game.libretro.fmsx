@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+msgctxt "Addon Summary"
+msgid "Microsoft - MSX (fMSX) 4.9"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "fMSX is a MSX emulator written by Marat Fayzullin. It emulates MSX, MSX2, and MSX2+ 8-bit home computers.
+
+Supported files: .rom, .mx1, .mx2, .dsk, .cas"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
