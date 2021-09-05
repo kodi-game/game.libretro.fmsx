@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fmsx"
 		name="Microsoft - MSX (fMSX)"
-		version="4.9.0.17"
+		version="4.9.0.18"
 		provider-name="Marat Fayzullin">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -14,6 +14,7 @@
 		<extensions>rom|mx1|mx2|dsk|cas</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>Non-commercial</license>
