@@ -1,1 +1,1 @@
-fmsx https://github.com/libretro/fmsx-libretro/archive/01731fc61c9a7c2276dc6a2d5af36323745e581e.tar.gz
+fmsx https://github.com/libretro/fmsx-libretro/archive/dfcda056896576c6a1c75c002a82d0e6c1160ccc.tar.gz
