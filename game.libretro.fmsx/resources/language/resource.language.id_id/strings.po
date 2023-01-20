@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "fMSX is a MSX emulator written by Marat Fayzullin. It emulates MSX, MSX2, and MSX2+ 8-bit home computers."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Image credit: Garage Research Emulators"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Pengaturan"
