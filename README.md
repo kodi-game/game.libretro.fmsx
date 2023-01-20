@@ -13,7 +13,7 @@ Non-commercial
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.fmsx/resources/icon.png)
 
 ### Fanart
 
