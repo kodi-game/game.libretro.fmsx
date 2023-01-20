@@ -23,7 +23,7 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "fMSX is a MSX emulator written by Marat Fayzullin. It emulates MSX, MSX2, and MSX2+ 8-bit home computers."
-msgstr ""
+msgstr "fMSX es un emulador de MSX escrito por Marat Fayzullin. Emula ordenadores domésticos de 8 bits MSX, MSX2 y MSX2+."
 
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Garage Research Emulators"
@@ -43,119 +43,119 @@ msgstr "Modo de Vídeo MSX"
 
 msgctxt "#30003"
 msgid "Support high resolution"
-msgstr ""
+msgstr "Admite Alta Resolución"
 
 msgctxt "#30004"
 msgid "Support overscan"
-msgstr ""
+msgstr "Admite Overscan"
 
 msgctxt "#30005"
 msgid "MSX Mapper Type Mode"
-msgstr ""
+msgstr "Modo de Escritura del Mapeador MSX"
 
 msgctxt "#30006"
 msgid "MSX Main Memory"
-msgstr ""
+msgstr "Memoria Principal MSX"
 
 msgctxt "#30007"
 msgid "MSX Video Memory"
-msgstr ""
+msgstr "Memoria de Vídeo MSX"
 
 msgctxt "#30008"
 msgid "fMSX logging"
-msgstr ""
+msgstr "Registro fMSX"
 
 msgctxt "#30009"
 msgid "Support Game Master"
-msgstr ""
+msgstr "Admite Game Master"
 
 msgctxt "#30010"
 msgid "Simulate DiskROM disk access calls"
-msgstr ""
+msgstr "Simular Llamadas de Acceso a Disco DiskROM"
 
 msgctxt "#30011"
 msgid "Use autofire on SPACE"
-msgstr ""
+msgstr "Usar ESPACIO para Fuego Automático"
 
 msgctxt "#30012"
 msgid "Show all sprites"
-msgstr ""
+msgstr "Mostrar Todos los Sprites"
 
 msgctxt "#30013"
 msgid "Text font"
-msgstr ""
+msgstr "Fuente del Texto"
 
 msgctxt "#30014"
 msgid "Save disk changes"
-msgstr ""
+msgstr "Guardar Cambios en el Disco"
 
 msgctxt "#30015"
 msgid "Create empty disk when none loaded"
-msgstr ""
+msgstr "Crear disco vacío cuando no hay ninguno cargado"
 
 msgctxt "#30016"
 msgid "Custom keyboard RetroPad up"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Arriba"
 
 msgctxt "#30017"
 msgid "Custom keyboard RetroPad down"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Abajo"
 
 msgctxt "#30018"
 msgid "Custom keyboard RetroPad left"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Izquierda"
 
 msgctxt "#30019"
 msgid "Custom keyboard RetroPad right"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Derecha"
 
 msgctxt "#30020"
 msgid "Custom keyboard RetroPad a"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad A"
 
 msgctxt "#30021"
 msgid "Custom keyboard RetroPad b"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad B"
 
 msgctxt "#30022"
 msgid "Custom keyboard RetroPad y"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Y"
 
 msgctxt "#30023"
 msgid "Custom keyboard RetroPad x"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad X"
 
 msgctxt "#30024"
 msgid "Custom keyboard RetroPad start"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Start"
 
 msgctxt "#30025"
 msgid "Custom keyboard RetroPad select"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad Select"
 
 msgctxt "#30026"
 msgid "Custom keyboard RetroPad l"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad L"
 
 msgctxt "#30027"
 msgid "Custom keyboard RetroPad r"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad R"
 
 msgctxt "#30028"
 msgid "Custom keyboard RetroPad l2"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad L2"
 
 msgctxt "#30029"
 msgid "Custom keyboard RetroPad r2"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad R2"
 
 msgctxt "#30030"
 msgid "Custom keyboard RetroPad l3"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad L3"
 
 msgctxt "#30031"
 msgid "Custom keyboard RetroPad r3"
-msgstr ""
+msgstr "Teclado Personalizado RetroPad R3"
 
 #~ msgctxt "#30003"
 #~ msgid "MSX Mapper Type Mode"
