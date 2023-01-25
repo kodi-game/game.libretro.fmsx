@@ -13,7 +13,7 @@ Non-commercial
 
 ### Icon
 
-![Icon](game.libretro.fmsx/resources/icon.png)
+![Microsoft - MSX (fMSX) icon](game.libretro.fmsx/resources/icon.png)
 
 ### Fanart
 
