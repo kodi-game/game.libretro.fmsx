@@ -33,5 +33,6 @@
 		<disclaimer lang="de_DE">Bildnachweis: Garage Research Emulators</disclaimer>
 		<disclaimer lang="en_GB">Image credit: Garage Research Emulators</disclaimer>
 		<disclaimer lang="es_ES">Créditos de la imagen: Garage Research Emulators</disclaimer>
+		<disclaimer lang="zh_CN">图片来源：Garage Research 模拟器</disclaimer>
 	</extension>
 </addon>
