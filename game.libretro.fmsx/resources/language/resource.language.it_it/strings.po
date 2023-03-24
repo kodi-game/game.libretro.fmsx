@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.14.2\n"
 
 msgctxt "Addon Summary"
-msgid "Microsoft - MSX (fMSX) 4.9"
+msgid "Microsoft - MSX (fMSX)"
 msgstr ""
 
 msgctxt "Addon Description"
