@@ -23,6 +23,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Microsoft - MSX (fMSX)</summary>
 		<summary lang="en_GB">Microsoft - MSX (fMSX)</summary>
 		<summary lang="es_ES">Microsoft - MSX (fMSX)</summary>
 		<description lang="da_DK">fMSX er en MSX-emulator skrevet af Marat Fayzullin. Den emulerer MSX, MSX2 og MSX2+ 8-bit hjemmecomputere.</description>
