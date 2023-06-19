@@ -62,97 +62,201 @@ msgid "MSX Video Memory"
 msgstr "MSX 视频内存"
 
 msgctxt "#30008"
-msgid "fMSX logging"
-msgstr "fMSX 日志记录"
+msgid "Enable SCC-I 128kB MegaRAM"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Support Game Master"
-msgstr "支持游戏修改大师"
+msgid "fMSX logging"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Simulate DiskROM disk access calls"
-msgstr "模拟 DiskROM 磁盘访问调用"
+msgid "Support Game Master"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Use autofire on SPACE"
-msgstr "SPACE 键使用自动开火"
+msgid "Simulate DiskROM disk access calls"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Show all sprites"
-msgstr "显示所有精灵"
+msgid "Use autofire on SPACE"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Text font"
-msgstr "文本字体"
+msgid "Show all sprites"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Save disk changes"
-msgstr "保存磁盘更改"
+msgid "Text font"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Create empty disk when none loaded"
-msgstr "未加载时创建空磁盘"
+msgid "Save disk changes"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Custom keyboard RetroPad up"
-msgstr "自定义键盘 RetroPad 上"
+msgid "Create empty disk when none loaded"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Custom keyboard RetroPad down"
-msgstr "自定义键盘 RetroPad 下"
+msgid "Load MSXDOS2.ROM when found"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Custom keyboard RetroPad left"
-msgstr "自定义键盘 RetroPad 左"
+msgid "Custom keyboard RetroPad up"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Custom keyboard RetroPad right"
-msgstr "自定义键盘 RetroPad 右"
+msgid "Custom keyboard RetroPad down"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Custom keyboard RetroPad a"
-msgstr "自定义键盘 RetroPad a"
+msgid "Custom keyboard RetroPad left"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Custom keyboard RetroPad b"
-msgstr "自定义键盘 RetroPad b"
+msgid "Custom keyboard RetroPad right"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Custom keyboard RetroPad y"
-msgstr "自定义键盘 RetroPad y"
+msgid "Custom keyboard RetroPad a"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Custom keyboard RetroPad x"
-msgstr "自定义键盘 RetroPad x"
+msgid "Custom keyboard RetroPad b"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Custom keyboard RetroPad start"
-msgstr "自定义键盘 RetroPad start"
+msgid "Custom keyboard RetroPad y"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Custom keyboard RetroPad select"
-msgstr "自定义键盘 RetroPad select"
+msgid "Custom keyboard RetroPad x"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Custom keyboard RetroPad l"
-msgstr "自定义键盘 RetroPad l"
+msgid "Custom keyboard RetroPad start"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Custom keyboard RetroPad r"
-msgstr "自定义键盘 RetroPad r"
+msgid "Custom keyboard RetroPad select"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Custom keyboard RetroPad l2"
-msgstr "自定义键盘 RetroPad l2"
+msgid "Custom keyboard RetroPad l"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Custom keyboard RetroPad r2"
-msgstr "自定义键盘 RetroPad r2"
+msgid "Custom keyboard RetroPad r"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Custom keyboard RetroPad l3"
-msgstr "自定义键盘 RetroPad l3"
+msgid "Custom keyboard RetroPad l2"
+msgstr ""
 
 msgctxt "#30031"
+msgid "Custom keyboard RetroPad r2"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Custom keyboard RetroPad l3"
+msgstr ""
+
+msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
-msgstr "自定义键盘 RetroPad r3"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "fMSX logging"
+#~ msgstr "fMSX 日志记录"
+
+#~ msgctxt "#30009"
+#~ msgid "Support Game Master"
+#~ msgstr "支持游戏修改大师"
+
+#~ msgctxt "#30010"
+#~ msgid "Simulate DiskROM disk access calls"
+#~ msgstr "模拟 DiskROM 磁盘访问调用"
+
+#~ msgctxt "#30011"
+#~ msgid "Use autofire on SPACE"
+#~ msgstr "SPACE 键使用自动开火"
+
+#~ msgctxt "#30012"
+#~ msgid "Show all sprites"
+#~ msgstr "显示所有精灵"
+
+#~ msgctxt "#30013"
+#~ msgid "Text font"
+#~ msgstr "文本字体"
+
+#~ msgctxt "#30014"
+#~ msgid "Save disk changes"
+#~ msgstr "保存磁盘更改"
+
+#~ msgctxt "#30015"
+#~ msgid "Create empty disk when none loaded"
+#~ msgstr "未加载时创建空磁盘"
+
+#~ msgctxt "#30016"
+#~ msgid "Custom keyboard RetroPad up"
+#~ msgstr "自定义键盘 RetroPad 上"
+
+#~ msgctxt "#30017"
+#~ msgid "Custom keyboard RetroPad down"
+#~ msgstr "自定义键盘 RetroPad 下"
+
+#~ msgctxt "#30018"
+#~ msgid "Custom keyboard RetroPad left"
+#~ msgstr "自定义键盘 RetroPad 左"
+
+#~ msgctxt "#30019"
+#~ msgid "Custom keyboard RetroPad right"
+#~ msgstr "自定义键盘 RetroPad 右"
+
+#~ msgctxt "#30020"
+#~ msgid "Custom keyboard RetroPad a"
+#~ msgstr "自定义键盘 RetroPad a"
+
+#~ msgctxt "#30021"
+#~ msgid "Custom keyboard RetroPad b"
+#~ msgstr "自定义键盘 RetroPad b"
+
+#~ msgctxt "#30022"
+#~ msgid "Custom keyboard RetroPad y"
+#~ msgstr "自定义键盘 RetroPad y"
+
+#~ msgctxt "#30023"
+#~ msgid "Custom keyboard RetroPad x"
+#~ msgstr "自定义键盘 RetroPad x"
+
+#~ msgctxt "#30024"
+#~ msgid "Custom keyboard RetroPad start"
+#~ msgstr "自定义键盘 RetroPad start"
+
+#~ msgctxt "#30025"
+#~ msgid "Custom keyboard RetroPad select"
+#~ msgstr "自定义键盘 RetroPad select"
+
+#~ msgctxt "#30026"
+#~ msgid "Custom keyboard RetroPad l"
+#~ msgstr "自定义键盘 RetroPad l"
+
+#~ msgctxt "#30027"
+#~ msgid "Custom keyboard RetroPad r"
+#~ msgstr "自定义键盘 RetroPad r"
+
+#~ msgctxt "#30028"
+#~ msgid "Custom keyboard RetroPad l2"
+#~ msgstr "自定义键盘 RetroPad l2"
+
+#~ msgctxt "#30029"
+#~ msgid "Custom keyboard RetroPad r2"
+#~ msgstr "自定义键盘 RetroPad r2"
+
+#~ msgctxt "#30030"
+#~ msgid "Custom keyboard RetroPad l3"
+#~ msgstr "自定义键盘 RetroPad l3"
+
+#~ msgctxt "#30031"
+#~ msgid "Custom keyboard RetroPad r3"
+#~ msgstr "自定义键盘 RetroPad r3"

@@ -62,100 +62,204 @@ msgid "MSX Video Memory"
 msgstr "Memoria de Vídeo MSX"
 
 msgctxt "#30008"
-msgid "fMSX logging"
-msgstr "Registro fMSX"
+msgid "Enable SCC-I 128kB MegaRAM"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Support Game Master"
-msgstr "Admite Game Master"
+msgid "fMSX logging"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Simulate DiskROM disk access calls"
-msgstr "Simular Llamadas de Acceso a Disco DiskROM"
+msgid "Support Game Master"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Use autofire on SPACE"
-msgstr "Usar ESPACIO para Fuego Automático"
+msgid "Simulate DiskROM disk access calls"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Show all sprites"
-msgstr "Mostrar Todos los Sprites"
+msgid "Use autofire on SPACE"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Text font"
-msgstr "Fuente del Texto"
+msgid "Show all sprites"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Save disk changes"
-msgstr "Guardar Cambios en el Disco"
+msgid "Text font"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Create empty disk when none loaded"
-msgstr "Crear disco vacío cuando no hay ninguno cargado"
+msgid "Save disk changes"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Custom keyboard RetroPad up"
-msgstr "Teclado Personalizado RetroPad Arriba"
+msgid "Create empty disk when none loaded"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Custom keyboard RetroPad down"
-msgstr "Teclado Personalizado RetroPad Abajo"
+msgid "Load MSXDOS2.ROM when found"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Custom keyboard RetroPad left"
-msgstr "Teclado Personalizado RetroPad Izquierda"
+msgid "Custom keyboard RetroPad up"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Custom keyboard RetroPad right"
-msgstr "Teclado Personalizado RetroPad Derecha"
+msgid "Custom keyboard RetroPad down"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Custom keyboard RetroPad a"
-msgstr "Teclado Personalizado RetroPad A"
+msgid "Custom keyboard RetroPad left"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Custom keyboard RetroPad b"
-msgstr "Teclado Personalizado RetroPad B"
+msgid "Custom keyboard RetroPad right"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Custom keyboard RetroPad y"
-msgstr "Teclado Personalizado RetroPad Y"
+msgid "Custom keyboard RetroPad a"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Custom keyboard RetroPad x"
-msgstr "Teclado Personalizado RetroPad X"
+msgid "Custom keyboard RetroPad b"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Custom keyboard RetroPad start"
-msgstr "Teclado Personalizado RetroPad Start"
+msgid "Custom keyboard RetroPad y"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Custom keyboard RetroPad select"
-msgstr "Teclado Personalizado RetroPad Select"
+msgid "Custom keyboard RetroPad x"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Custom keyboard RetroPad l"
-msgstr "Teclado Personalizado RetroPad L"
+msgid "Custom keyboard RetroPad start"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Custom keyboard RetroPad r"
-msgstr "Teclado Personalizado RetroPad R"
+msgid "Custom keyboard RetroPad select"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Custom keyboard RetroPad l2"
-msgstr "Teclado Personalizado RetroPad L2"
+msgid "Custom keyboard RetroPad l"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Custom keyboard RetroPad r2"
-msgstr "Teclado Personalizado RetroPad R2"
+msgid "Custom keyboard RetroPad r"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Custom keyboard RetroPad l3"
-msgstr "Teclado Personalizado RetroPad L3"
+msgid "Custom keyboard RetroPad l2"
+msgstr ""
 
 msgctxt "#30031"
+msgid "Custom keyboard RetroPad r2"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Custom keyboard RetroPad l3"
+msgstr ""
+
+msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
-msgstr "Teclado Personalizado RetroPad R3"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "fMSX logging"
+#~ msgstr "Registro fMSX"
+
+#~ msgctxt "#30009"
+#~ msgid "Support Game Master"
+#~ msgstr "Admite Game Master"
+
+#~ msgctxt "#30010"
+#~ msgid "Simulate DiskROM disk access calls"
+#~ msgstr "Simular Llamadas de Acceso a Disco DiskROM"
+
+#~ msgctxt "#30011"
+#~ msgid "Use autofire on SPACE"
+#~ msgstr "Usar ESPACIO para Fuego Automático"
+
+#~ msgctxt "#30012"
+#~ msgid "Show all sprites"
+#~ msgstr "Mostrar Todos los Sprites"
+
+#~ msgctxt "#30013"
+#~ msgid "Text font"
+#~ msgstr "Fuente del Texto"
+
+#~ msgctxt "#30014"
+#~ msgid "Save disk changes"
+#~ msgstr "Guardar Cambios en el Disco"
+
+#~ msgctxt "#30015"
+#~ msgid "Create empty disk when none loaded"
+#~ msgstr "Crear disco vacío cuando no hay ninguno cargado"
+
+#~ msgctxt "#30016"
+#~ msgid "Custom keyboard RetroPad up"
+#~ msgstr "Teclado Personalizado RetroPad Arriba"
+
+#~ msgctxt "#30017"
+#~ msgid "Custom keyboard RetroPad down"
+#~ msgstr "Teclado Personalizado RetroPad Abajo"
+
+#~ msgctxt "#30018"
+#~ msgid "Custom keyboard RetroPad left"
+#~ msgstr "Teclado Personalizado RetroPad Izquierda"
+
+#~ msgctxt "#30019"
+#~ msgid "Custom keyboard RetroPad right"
+#~ msgstr "Teclado Personalizado RetroPad Derecha"
+
+#~ msgctxt "#30020"
+#~ msgid "Custom keyboard RetroPad a"
+#~ msgstr "Teclado Personalizado RetroPad A"
+
+#~ msgctxt "#30021"
+#~ msgid "Custom keyboard RetroPad b"
+#~ msgstr "Teclado Personalizado RetroPad B"
+
+#~ msgctxt "#30022"
+#~ msgid "Custom keyboard RetroPad y"
+#~ msgstr "Teclado Personalizado RetroPad Y"
+
+#~ msgctxt "#30023"
+#~ msgid "Custom keyboard RetroPad x"
+#~ msgstr "Teclado Personalizado RetroPad X"
+
+#~ msgctxt "#30024"
+#~ msgid "Custom keyboard RetroPad start"
+#~ msgstr "Teclado Personalizado RetroPad Start"
+
+#~ msgctxt "#30025"
+#~ msgid "Custom keyboard RetroPad select"
+#~ msgstr "Teclado Personalizado RetroPad Select"
+
+#~ msgctxt "#30026"
+#~ msgid "Custom keyboard RetroPad l"
+#~ msgstr "Teclado Personalizado RetroPad L"
+
+#~ msgctxt "#30027"
+#~ msgid "Custom keyboard RetroPad r"
+#~ msgstr "Teclado Personalizado RetroPad R"
+
+#~ msgctxt "#30028"
+#~ msgid "Custom keyboard RetroPad l2"
+#~ msgstr "Teclado Personalizado RetroPad L2"
+
+#~ msgctxt "#30029"
+#~ msgid "Custom keyboard RetroPad r2"
+#~ msgstr "Teclado Personalizado RetroPad R2"
+
+#~ msgctxt "#30030"
+#~ msgid "Custom keyboard RetroPad l3"
+#~ msgstr "Teclado Personalizado RetroPad L3"
+
+#~ msgctxt "#30031"
+#~ msgid "Custom keyboard RetroPad r3"
+#~ msgstr "Teclado Personalizado RetroPad R3"
 
 #~ msgctxt "#30003"
 #~ msgid "MSX Mapper Type Mode"

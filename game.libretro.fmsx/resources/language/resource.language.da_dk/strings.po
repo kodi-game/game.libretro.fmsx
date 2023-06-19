@@ -62,100 +62,204 @@ msgid "MSX Video Memory"
 msgstr "MSX videohukommelse"
 
 msgctxt "#30008"
-msgid "fMSX logging"
-msgstr "fMSX logføring"
+msgid "Enable SCC-I 128kB MegaRAM"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Support Game Master"
-msgstr "Understøttelse af spil-master"
+msgid "fMSX logging"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Simulate DiskROM disk access calls"
-msgstr "Simuler kald til DiskROM diskadgang"
+msgid "Support Game Master"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Use autofire on SPACE"
-msgstr "Brug automatisk affyring på MELLEMRUM"
+msgid "Simulate DiskROM disk access calls"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Show all sprites"
-msgstr "Vis alle sprites"
+msgid "Use autofire on SPACE"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Text font"
-msgstr "Skrifttype"
+msgid "Show all sprites"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Save disk changes"
-msgstr "Gem diskændringer"
+msgid "Text font"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Create empty disk when none loaded"
-msgstr "Opret tom disk når ingen er indlæst"
+msgid "Save disk changes"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Custom keyboard RetroPad up"
-msgstr "Brugerdefineret tastatur RetroPad op"
+msgid "Create empty disk when none loaded"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Custom keyboard RetroPad down"
-msgstr "Brugerdefineret tastatur RetroPad ned"
+msgid "Load MSXDOS2.ROM when found"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Custom keyboard RetroPad left"
-msgstr "Brugerdefineret tastatur RetroPad venstre"
+msgid "Custom keyboard RetroPad up"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Custom keyboard RetroPad right"
-msgstr "Brugerdefineret tastatur RetroPad højre"
+msgid "Custom keyboard RetroPad down"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Custom keyboard RetroPad a"
-msgstr "Brugerdefineret tastatur RetroPad A"
+msgid "Custom keyboard RetroPad left"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Custom keyboard RetroPad b"
-msgstr "Brugerdefineret tastatur RetroPad B"
+msgid "Custom keyboard RetroPad right"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Custom keyboard RetroPad y"
-msgstr "Brugerdefineret tastatur RetroPad Y"
+msgid "Custom keyboard RetroPad a"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Custom keyboard RetroPad x"
-msgstr "Brugerdefineret tastatur RetroPad X"
+msgid "Custom keyboard RetroPad b"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Custom keyboard RetroPad start"
-msgstr "Brugerdefineret tastatur RetroPad start"
+msgid "Custom keyboard RetroPad y"
+msgstr ""
 
 msgctxt "#30025"
-msgid "Custom keyboard RetroPad select"
-msgstr "Brugerdefineret tastatur RetroPad vælg"
+msgid "Custom keyboard RetroPad x"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Custom keyboard RetroPad l"
-msgstr "Brugerdefineret tastatur RetroPad L"
+msgid "Custom keyboard RetroPad start"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Custom keyboard RetroPad r"
-msgstr "Brugerdefineret tastatur RetroPad R"
+msgid "Custom keyboard RetroPad select"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Custom keyboard RetroPad l2"
-msgstr "Brugerdefineret tastatur RetroPad L2"
+msgid "Custom keyboard RetroPad l"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Custom keyboard RetroPad r2"
-msgstr "Brugerdefineret tastatur RetroPad R2"
+msgid "Custom keyboard RetroPad r"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Custom keyboard RetroPad l3"
-msgstr "Brugerdefineret tastatur RetroPad L3"
+msgid "Custom keyboard RetroPad l2"
+msgstr ""
 
 msgctxt "#30031"
+msgid "Custom keyboard RetroPad r2"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Custom keyboard RetroPad l3"
+msgstr ""
+
+msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
-msgstr "Brugerdefineret tastatur RetroPad R3"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "fMSX logging"
+#~ msgstr "fMSX logføring"
+
+#~ msgctxt "#30009"
+#~ msgid "Support Game Master"
+#~ msgstr "Understøttelse af spil-master"
+
+#~ msgctxt "#30010"
+#~ msgid "Simulate DiskROM disk access calls"
+#~ msgstr "Simuler kald til DiskROM diskadgang"
+
+#~ msgctxt "#30011"
+#~ msgid "Use autofire on SPACE"
+#~ msgstr "Brug automatisk affyring på MELLEMRUM"
+
+#~ msgctxt "#30012"
+#~ msgid "Show all sprites"
+#~ msgstr "Vis alle sprites"
+
+#~ msgctxt "#30013"
+#~ msgid "Text font"
+#~ msgstr "Skrifttype"
+
+#~ msgctxt "#30014"
+#~ msgid "Save disk changes"
+#~ msgstr "Gem diskændringer"
+
+#~ msgctxt "#30015"
+#~ msgid "Create empty disk when none loaded"
+#~ msgstr "Opret tom disk når ingen er indlæst"
+
+#~ msgctxt "#30016"
+#~ msgid "Custom keyboard RetroPad up"
+#~ msgstr "Brugerdefineret tastatur RetroPad op"
+
+#~ msgctxt "#30017"
+#~ msgid "Custom keyboard RetroPad down"
+#~ msgstr "Brugerdefineret tastatur RetroPad ned"
+
+#~ msgctxt "#30018"
+#~ msgid "Custom keyboard RetroPad left"
+#~ msgstr "Brugerdefineret tastatur RetroPad venstre"
+
+#~ msgctxt "#30019"
+#~ msgid "Custom keyboard RetroPad right"
+#~ msgstr "Brugerdefineret tastatur RetroPad højre"
+
+#~ msgctxt "#30020"
+#~ msgid "Custom keyboard RetroPad a"
+#~ msgstr "Brugerdefineret tastatur RetroPad A"
+
+#~ msgctxt "#30021"
+#~ msgid "Custom keyboard RetroPad b"
+#~ msgstr "Brugerdefineret tastatur RetroPad B"
+
+#~ msgctxt "#30022"
+#~ msgid "Custom keyboard RetroPad y"
+#~ msgstr "Brugerdefineret tastatur RetroPad Y"
+
+#~ msgctxt "#30023"
+#~ msgid "Custom keyboard RetroPad x"
+#~ msgstr "Brugerdefineret tastatur RetroPad X"
+
+#~ msgctxt "#30024"
+#~ msgid "Custom keyboard RetroPad start"
+#~ msgstr "Brugerdefineret tastatur RetroPad start"
+
+#~ msgctxt "#30025"
+#~ msgid "Custom keyboard RetroPad select"
+#~ msgstr "Brugerdefineret tastatur RetroPad vælg"
+
+#~ msgctxt "#30026"
+#~ msgid "Custom keyboard RetroPad l"
+#~ msgstr "Brugerdefineret tastatur RetroPad L"
+
+#~ msgctxt "#30027"
+#~ msgid "Custom keyboard RetroPad r"
+#~ msgstr "Brugerdefineret tastatur RetroPad R"
+
+#~ msgctxt "#30028"
+#~ msgid "Custom keyboard RetroPad l2"
+#~ msgstr "Brugerdefineret tastatur RetroPad L2"
+
+#~ msgctxt "#30029"
+#~ msgid "Custom keyboard RetroPad r2"
+#~ msgstr "Brugerdefineret tastatur RetroPad R2"
+
+#~ msgctxt "#30030"
+#~ msgid "Custom keyboard RetroPad l3"
+#~ msgstr "Brugerdefineret tastatur RetroPad L3"
+
+#~ msgctxt "#30031"
+#~ msgid "Custom keyboard RetroPad r3"
+#~ msgstr "Brugerdefineret tastatur RetroPad R3"
 
 #~ msgctxt "#30003"
 #~ msgid "MSX Mapper Type Mode"

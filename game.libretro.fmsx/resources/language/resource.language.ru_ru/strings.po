@@ -62,97 +62,121 @@ msgid "MSX Video Memory"
 msgstr "Видеопамять MSX"
 
 msgctxt "#30008"
-msgid "fMSX logging"
-msgstr "Журналирование fMSX"
+msgid "Enable SCC-I 128kB MegaRAM"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Support Game Master"
+msgid "fMSX logging"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Simulate DiskROM disk access calls"
+msgid "Support Game Master"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Use autofire on SPACE"
+msgid "Simulate DiskROM disk access calls"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Show all sprites"
-msgstr "Показать все спрайты"
+msgid "Use autofire on SPACE"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Text font"
-msgstr "Шрифт текста"
+msgid "Show all sprites"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Save disk changes"
-msgstr "Сохранить изменения диска"
+msgid "Text font"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Create empty disk when none loaded"
+msgid "Save disk changes"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Custom keyboard RetroPad up"
+msgid "Create empty disk when none loaded"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Custom keyboard RetroPad down"
+msgid "Load MSXDOS2.ROM when found"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Custom keyboard RetroPad left"
+msgid "Custom keyboard RetroPad up"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Custom keyboard RetroPad right"
+msgid "Custom keyboard RetroPad down"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Custom keyboard RetroPad a"
+msgid "Custom keyboard RetroPad left"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Custom keyboard RetroPad b"
+msgid "Custom keyboard RetroPad right"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Custom keyboard RetroPad y"
+msgid "Custom keyboard RetroPad a"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Custom keyboard RetroPad x"
+msgid "Custom keyboard RetroPad b"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Custom keyboard RetroPad start"
+msgid "Custom keyboard RetroPad y"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Custom keyboard RetroPad select"
+msgid "Custom keyboard RetroPad x"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Custom keyboard RetroPad l"
+msgid "Custom keyboard RetroPad start"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Custom keyboard RetroPad r"
+msgid "Custom keyboard RetroPad select"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Custom keyboard RetroPad l2"
+msgid "Custom keyboard RetroPad l"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Custom keyboard RetroPad r2"
+msgid "Custom keyboard RetroPad r"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Custom keyboard RetroPad l3"
+msgid "Custom keyboard RetroPad l2"
 msgstr ""
 
 msgctxt "#30031"
+msgid "Custom keyboard RetroPad r2"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Custom keyboard RetroPad l3"
+msgstr ""
+
+msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
 msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "fMSX logging"
+#~ msgstr "Журналирование fMSX"
+
+#~ msgctxt "#30012"
+#~ msgid "Show all sprites"
+#~ msgstr "Показать все спрайты"
+
+#~ msgctxt "#30013"
+#~ msgid "Text font"
+#~ msgstr "Шрифт текста"
+
+#~ msgctxt "#30014"
+#~ msgid "Save disk changes"
+#~ msgstr "Сохранить изменения диска"
