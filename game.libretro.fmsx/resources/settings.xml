@@ -9,6 +9,7 @@
 		<setting label="30006" type="select" id="fmsx_ram_pages" values="Auto|64KB|128KB|256KB|512KB|4MB" default="Auto"/>
 		<setting label="30007" type="select" id="fmsx_vram_pages" values="Auto|32KB|64KB|128KB|192KB" default="Auto"/>
 		<setting label="30008" type="select" id="fmsx_scci_megaram" values="Yes|No" default="Yes"/>
+		<setting label="30034" type="select" id="fmsx_ym2413_core" values="fMSX|NukeYKT" default="fMSX"/>
 		<setting label="30009" type="select" id="fmsx_log_level" values="Off|Info|Debug|Spam" default="Off"/>
 		<setting label="30010" type="select" id="fmsx_game_master" values="No|Yes" default="No"/>
 		<setting label="30011" type="select" id="fmsx_simbdos" values="No|Yes" default="No"/>
