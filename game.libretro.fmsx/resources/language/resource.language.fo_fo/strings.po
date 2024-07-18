@@ -163,3 +163,7 @@ msgstr ""
 msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
 msgstr ""
+
+msgctxt "#30034"
+msgid "YM2413 (FM-PAC / MSX-MUSIC) core"
+msgstr ""
