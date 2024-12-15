@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="fmsx_mode" values="MSX2+|MSX1|MSX2" default="MSX2+"/>
 		<setting label="30002" type="select" id="fmsx_video_mode" values="NTSC|PAL|Dynamic" default="NTSC"/>
 		<setting label="30003" type="select" id="fmsx_hires" values="Off|Interlaced|Progressive" default="Off"/>
