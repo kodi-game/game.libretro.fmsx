@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: Garage Research Emulators"
 msgstr "图片来源：Garage Research 模拟器"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "MSX Mode"
 msgstr "MSX 模式"
@@ -168,6 +164,10 @@ msgstr ""
 msgctxt "#30034"
 msgid "YM2413 (FM-PAC / MSX-MUSIC) core"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30008"
 #~ msgid "fMSX logging"

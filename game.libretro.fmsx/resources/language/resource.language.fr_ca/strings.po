@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: Garage Research Emulators"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "MSX Mode"
 msgstr ""

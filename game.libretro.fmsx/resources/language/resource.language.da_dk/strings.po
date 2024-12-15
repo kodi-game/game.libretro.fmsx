@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Image credit: Garage Research Emulators"
 msgstr "Billedkreditering: Garage Research Emulators"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "MSX Mode"
 msgstr "MSX Tilstand"
@@ -168,6 +164,10 @@ msgstr ""
 msgctxt "#30034"
 msgid "YM2413 (FM-PAC / MSX-MUSIC) core"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30008"
 #~ msgid "fMSX logging"
