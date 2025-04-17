@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.fmsx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-fmsx/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Microsoft - MSX (fMSX)"
@@ -39,131 +39,137 @@ msgstr "MSX-videoläge"
 
 msgctxt "#30003"
 msgid "Support high resolution"
-msgstr ""
+msgstr "Stöd för hög upplösning"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Support overscan"
-msgstr ""
+msgstr "Stöd för överskanning"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "MSX Mapper Type Mode"
-msgstr ""
+msgstr "MSX Mapper Typläge"
 
 msgctxt "#30006"
 msgid "MSX Main Memory"
-msgstr ""
+msgstr "MSX huvudminne"
 
 msgctxt "#30007"
 msgid "MSX Video Memory"
-msgstr ""
+msgstr "MSX videominne"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Enable SCC-I 128kB MegaRAM"
-msgstr ""
+msgstr "Aktivera SCC-I 128kB MegaRAM"
 
 msgctxt "#30009"
 msgid "fMSX logging"
-msgstr ""
+msgstr "fMSX-loggning"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Support Game Master"
-msgstr ""
+msgstr "Stödja Game Master"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Simulate DiskROM disk access calls"
-msgstr ""
+msgstr "Simulera DiskROM-anrop för diskåtkomst"
 
 msgctxt "#30012"
 msgid "Use autofire on SPACE"
-msgstr ""
+msgstr "Använd autofire med MELLANSLAG"
 
 msgctxt "#30013"
 msgid "Show all sprites"
-msgstr ""
+msgstr "Visa alla sprites"
 
 msgctxt "#30014"
 msgid "Text font"
-msgstr ""
+msgstr "Teckensnitt för text"
 
 msgctxt "#30015"
 msgid "Save disk changes"
-msgstr ""
+msgstr "Spara diskändringar"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Create empty disk when none loaded"
-msgstr ""
+msgstr "Skapa en tom disk när ingen är laddad"
 
 msgctxt "#30017"
 msgid "Load MSXDOS2.ROM when found"
-msgstr ""
+msgstr "Läs in MSXDOS2.ROM när den hittas"
 
 msgctxt "#30018"
 msgid "Custom keyboard RetroPad up"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad upp"
 
 msgctxt "#30019"
 msgid "Custom keyboard RetroPad down"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad ner"
 
 msgctxt "#30020"
 msgid "Custom keyboard RetroPad left"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad vänster"
 
 msgctxt "#30021"
 msgid "Custom keyboard RetroPad right"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad höger"
 
 msgctxt "#30022"
 msgid "Custom keyboard RetroPad a"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad a"
 
 msgctxt "#30023"
 msgid "Custom keyboard RetroPad b"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad b"
 
 msgctxt "#30024"
 msgid "Custom keyboard RetroPad y"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad y"
 
 msgctxt "#30025"
 msgid "Custom keyboard RetroPad x"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad x"
 
 msgctxt "#30026"
 msgid "Custom keyboard RetroPad start"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad start"
 
 msgctxt "#30027"
 msgid "Custom keyboard RetroPad select"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad select"
 
 msgctxt "#30028"
 msgid "Custom keyboard RetroPad l"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad l"
 
 msgctxt "#30029"
 msgid "Custom keyboard RetroPad r"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad r"
 
 msgctxt "#30030"
 msgid "Custom keyboard RetroPad l2"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad l2"
 
 msgctxt "#30031"
 msgid "Custom keyboard RetroPad r2"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad r2"
 
 msgctxt "#30032"
 msgid "Custom keyboard RetroPad l3"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad l3"
 
 msgctxt "#30033"
 msgid "Custom keyboard RetroPad r3"
-msgstr ""
+msgstr "Anpassat tangentbord RetroPad r3"
 
 msgctxt "#30034"
 msgid "YM2413 (FM-PAC / MSX-MUSIC) core"
-msgstr ""
+msgstr "YM2413-kärna (FM-PAC / MSX-MUSIC)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
