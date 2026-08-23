@@ -165,6 +165,66 @@ msgctxt "#30034"
 msgid "YM2413 (FM-PAC / MSX-MUSIC) core"
 msgstr ""
 
+msgctxt "#30035"
+msgid "Interlaced"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Progressive"
+msgstr ""
+
+msgctxt "#30037"
+msgid "64KB"
+msgstr ""
+
+msgctxt "#30038"
+msgid "128KB"
+msgstr ""
+
+msgctxt "#30039"
+msgid "256KB"
+msgstr ""
+
+msgctxt "#30040"
+msgid "512KB"
+msgstr ""
+
+msgctxt "#30041"
+msgid "4MB"
+msgstr ""
+
+msgctxt "#30042"
+msgid "32KB"
+msgstr ""
+
+msgctxt "#30043"
+msgid "192KB"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Info"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Debug"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Spam"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Immediate"
+msgstr ""
+
+msgctxt "#30048"
+msgid "On close"
+msgstr ""
+
+msgctxt "#30049"
+msgid "To/From SRAM"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Einstellungen"
