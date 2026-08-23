@@ -32,9 +32,9 @@
 					<default>Off</default>
 					<constraints>
 						<options>
-							<option>Off</option>
-							<option>Interlaced</option>
-							<option>Progressive</option>
+							<option label="351">Off</option>
+							<option label="30035">Interlaced</option>
+							<option label="30036">Progressive</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -44,8 +44,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -73,12 +73,12 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>64KB</option>
-							<option>128KB</option>
-							<option>256KB</option>
-							<option>512KB</option>
-							<option>4MB</option>
+							<option label="16316">Auto</option>
+							<option label="30037">64KB</option>
+							<option label="30038">128KB</option>
+							<option label="30039">256KB</option>
+							<option label="30040">512KB</option>
+							<option label="30041">4MB</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -88,11 +88,11 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
-							<option>32KB</option>
-							<option>64KB</option>
-							<option>128KB</option>
-							<option>192KB</option>
+							<option label="16316">Auto</option>
+							<option label="30042">32KB</option>
+							<option label="30037">64KB</option>
+							<option label="30038">128KB</option>
+							<option label="30043">192KB</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -102,8 +102,8 @@
 					<default>Yes</default>
 					<constraints>
 						<options>
-							<option>Yes</option>
-							<option>No</option>
+							<option label="107">Yes</option>
+							<option label="106">No</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -124,10 +124,10 @@
 					<default>Off</default>
 					<constraints>
 						<options>
-							<option>Off</option>
-							<option>Info</option>
-							<option>Debug</option>
-							<option>Spam</option>
+							<option label="351">Off</option>
+							<option label="30044">Info</option>
+							<option label="30045">Debug</option>
+							<option label="30046">Spam</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -137,8 +137,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -148,8 +148,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -159,8 +159,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -170,8 +170,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -197,10 +197,10 @@
 					<default>Never</default>
 					<constraints>
 						<options>
-							<option>Never</option>
-							<option>Immediate</option>
-							<option>On close</option>
-							<option>To/From SRAM</option>
+							<option label="34123">Never</option>
+							<option label="30047">Immediate</option>
+							<option label="30048">On close</option>
+							<option label="30049">To/From SRAM</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -210,8 +210,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -221,8 +221,8 @@
 					<default>No</default>
 					<constraints>
 						<options>
-							<option>No</option>
-							<option>Yes</option>
+							<option label="106">No</option>
+							<option label="107">Yes</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
