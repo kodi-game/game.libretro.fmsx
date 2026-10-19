@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.fmsx"
 		name="Microsoft - MSX (fMSX)"
-		version="6.0.0.50"
+		version="6.0.0.51"
 		provider-name="Marat Fayzullin">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,12 +10,12 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>MSX</platforms>
+		<platforms>Microsoft - MSX</platforms>
 		<extensions>rom|mx1|mx2|dsk|fdi|cas|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>fmsx_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>Non-commercial</license>
